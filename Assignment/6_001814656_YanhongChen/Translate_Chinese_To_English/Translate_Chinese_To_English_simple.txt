@@ -1,0 +1,510 @@
+1
+一个	a
+国内	Civil
+战争	War 
+迷	buff
+。	.
+
+2
+一个	a
+法国的	French
+庄园	manor
+建筑	house
+。	.
+
+3
+一条	a
+坏	bad
+新闻	news
+。	.
+
+4
+一个	a
+漂亮的	beautiful
+角球	corner-kick
+。	.
+
+5
+我	i
+想	want
+吃	eat
+东西	something
+。	.
+
+6
+一个	a
+火车	train
+员工	employee
+管理	in charge of
+一条	a
+火车	train
+。	.
+
+7
+我	i
+有	have
+很多	a lot of
+问题	questions
+。	.
+
+8
+一	A
+大群	large group of
+抗议者	protesters
+聚集	gathered
+一起	together
+。	.
+
+9
+一个	a
+大瀑布	large
+或	or
+高	high
+瀑布	waterfall
+。	.
+
+10
+一个	a
+推迟的	late
+早餐	breakfast
+;	;
+一个	a
+推迟了的	late
+会议	meeting
+。	.
+
+11
+一个	a
+懒惰	lazy
+或	or
+闲散	idle
+的人	person
+；	;
+游手好闲者	loafer
+。	.
+
+12
+一行	a line of
+等待	waiting
+人	people
+或	or
+车辆	vehicles
+。	.
+
+13
+请	Please
+给	give
+我	me
+一个	a
+切片	sliced
+面包	bread
+。	.
+
+14
+一个	a
+长寿的	long-lived
+姑姑	aunt
+。	.
+
+15
+昨晚	last night
+苏格兰	Scotland
+下了	fell in
+许多	A lot of
+雨	rain
+。	.
+
+16
+一个	a
+可鄙的	lousy
+恶作剧	trick
+。	.
+
+17
+我们的	our
+班	class
+有	have
+一个	a
+很	very
+优秀的	good
+同学	classmate
+，	,
+
+18
+她	she
+不光	not only
+学习	study
+是	is
+我们	our
+班的	class
+第一名	first-class
+，	,
+
+19
+而且	and
+在	in
+我们	our
+班	class
+还是	is
+经常	usually
+受	been
+表扬的	Praise
+人物	character
+，	,
+
+20
+她	she
+就是	is
+我们	our
+班的	class
+夏宇	xiayu
+，	,
+
+21
+她	she
+是	is
+一个	a
+特别	very
+优秀的	good
+学生	student
+，	,
+
+22
+每年的	annual
+三好	good
+学生	student
+，	,
+
+23
+她	she
+还	also
+很	very
+热爱	like
+班	class
+集体	collective
+。	.
+
+24
+昨天	yesterday
+放学的	after school
+时候	time
+，	,
+
+25
+同学们	student
+听到	hear
+铃声	ring bell
+，	,
+
+26
+一窝蜂的	a lot
+都	all
+出去	get out
+，	,
+
+27
+她	she
+忽然	suddently
+停下	stop
+脚步	pace
+，	,
+
+28
+我	I
+顺着	along
+她的	hers
+目光	eye
+，	,
+
+29
+看见	see
+教室	class
+里	in
+非常	very
+杂乱	massly
+，	,
+
+30
+地上	ground
+还有	also
+一大堆	a load of
+同学	student
+留下的	left
+纸屑	paper
+。	.
+
+31
+我的	my
+好	good
+朋友	friend
+看了看	look
+之后	after
+，	,
+
+32
+想了想	think
+说	speak
+可能	probably
+是	is
+他们	they
+着急	hurry
+出去	go out
+玩	play
+，	,
+
+33
+没来得及	not too late
+收拾	tidy
+，	,
+
+34
+我们	we
+来	let's
+收拾吧	clean
+说完	after
+，	,
+
+35
+和	with
+我	I
+一起	together
+打扫	clean
+教室	classroom
+。	.
+
+36
+我们	we
+扫地	clean
+、	,
+
+37
+摆	place
+小桌子	table
+、	,
+
+38
+擦	wipe
+黑板	blackboard
+，	,
+
+39
+非常	very
+忙	busy
+
+40
+过了	after
+一会儿	a while
+，	,
+
+41
+终于	finally
+打扫	clean
+完了	finish
+。	.
+
+42
+夏宇	xiayu
+把	place
+垃圾	garbage
+装在	in
+一个	a
+袋子	bag	
+，	,
+
+43
+和	with
+我	me
+走出	go out
+教室	class
+，	,
+
+44
+关好	close
+门	door
+，	,
+
+45
+去	go
+扔	throw
+垃圾	garbage
+。	.
+
+46
+她	she
+由于	because
+跑得	run
+太	too
+快	fast
+，	,
+不小心	incaution
+摔倒了	fell
+。	.
+
+47
+我	I
+远远地	far away
+看见	see
+她	she
+脸上	face
+带着	with
+痛苦的	painful
+表情	expression
+站了	stand
+起来	up
+，	,
+
+48
+揉了揉	knead
+膝盖	knee
+
+49
+坚持	insist
+把	hold
+垃圾	garbage
+扔掉	throw away
+，	,
+我们	we
+才	just
+收拾	clean
+东西	thing
+回	back
+家	home
+。	.
+
+50
+这	this
+就是	is
+我们	our
+班的	class
+优秀	good
+同学	student
+,	,
+
+51
+我	I
+也要	also
+向	from
+她	her
+学习	study
+，	,
+
+52
+不仅	not only
+要	want
+好好	well
+学习	study
+，	,
+
+53
+更要	more
+爱护	care
+我们的	our
+班	class
+集体	collective
+，	,
+
+54
+因为	because
+班	class
+集体	collective
+就是	is
+我们的	our
+家	home
+。	.
+
+55
+三月	march
+到了	arrived
+，	,
+春	spring
+姑娘	girl
+也	also
+悄悄的	quietly
+来到了	arrive
+我们的	our
+身边	side
+，	,
+
+56
+她	she
+轻手轻脚	lightly
+，	,
+悄悄的	silent
+走着	walking
+，	,
+
+57
+浑身	whole body
+散发着	exude
+清香	fragrance
+，	,
+她	she
+羞涩地	shyly 
+走着	walking
+。	.
+
+58
+有一天	one day
+，	,
+妈妈	mom
+叫	let
+我	me
+去	go
+买	buy
+东西	something
+，	,
+
+59
+我	I
+开心的	happily
+说	said
+好的	Okay
+妈妈	mom
+我	I
+知道了	know
+。	.
+
+60
+说完	after that
+我	I
+就去	just
+买	go
+东西了	shopping 
+。	.
+
+61
+我	I
+说	said
+好的	okay
+叔叔	uncle
+。	.
+
+62
+我	I
+吃	eat
+一	one
+苹果	apple
+。	.
+
+63
+我	I
+爱	love
+吃	eating
+梨	pears
+。	.
+
+64
+我	I
+喜欢	love
+吃	eating
+苹果	apples
+和	and
+梨	pears
+。	.
+
+65
+我	I
+喜欢	love
+吃	eating
+苹果	apples
+。	.
